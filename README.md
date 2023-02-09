@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Tejas Gavankar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas161&label=Profile%20views&color=0e75b6&style=flat" alt="tejas161" height="30" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas161&label=Profile%20views&color=0e75b6&style=flat" alt="tejas161" /> </p>
 
-<h3>Hi Coders , I am from Mumbai,India and I like developing Websites. I work majorily on MERN Stack Applications . I also enjoy Problem Solving on various competitive platforms using C++ as my favourite Language. My  Goal is to become a Professional Full Stack Developer.</h3>
+<h4>Hi Coders , I am from Mumbai,India and I like developing Websites. I work majorily on MERN Stack Applications . I also enjoy Problem Solving on various competitive platforms using C++ as my favourite Language. My  Goal is to become a Professional Full Stack Developer.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
