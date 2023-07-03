@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-   <a href="https://linkedin.com/in/tejas-gavankar-305757195" target="_blank"
-        ><img
+   <a href="https://linkedin.com/in/tejas-gavankar-305757195" target="_blank">
+        <img
             height="30"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
               /></a>
