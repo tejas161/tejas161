@@ -92,7 +92,7 @@
   </p>
  
  
-<div align="center">
+<div>
    <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas161&show_icons=true&locale=en&layout=compact" alt="tejas161" />  
   <img height="200"  src="https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true" alt="tejas161" />
  <img height="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=tejas161&" alt="tejas161" />
