@@ -1,8 +1,8 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas161&label=Profile%20views&color=0e75b6&style=flat" alt="tejas161" /> </p>
 <img height="180" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="A Coder" />
 <h2>Hi 👋, I'm Tejas Gavankar</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas161&label=Profile%20views&color=0e75b6&style=flat" alt="tejas161" /> </p>
+
 
 
 
@@ -96,8 +96,7 @@
    <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas161&show_icons=true&locale=en&layout=compact" alt="tejas161" />  
   <img height="200"  src="https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true" alt="tejas161" />
  <img height="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=tejas161&" alt="tejas161" />
- 
-</div>
+ </div>
 
 
 
