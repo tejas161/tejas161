@@ -5,6 +5,8 @@
 
 <h4>Hi Coders , I am from Mumbai,India and I like developing Websites. I work majorily on MERN Stack Applications . I also enjoy Problem Solving on various competitive platforms using C++ as my favourite Language. My  Goal is to become a Professional Full Stack Developer.</h4>
 
+![](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
