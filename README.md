@@ -1,11 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Tejas Gavankar</h1>
+<img height="180" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="A Coder" />
+<h2>Hi 👋, I'm Tejas Gavankar</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas161&label=Profile%20views&color=0e75b6&style=flat" alt="tejas161" /> </p>
 
-<h4>Hi Coders , I am from Mumbai,India and I like developing Websites. I work majorily on MERN Stack Applications . I also enjoy Problem Solving on various competitive platforms using C++ as my favourite Language. My  Goal is to become a Professional Full Stack Developer.</h4>
 
-![](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -93,10 +92,16 @@
   </p>
  
  
+<div align="center">
+   <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas161&show_icons=true&locale=en&layout=compact" alt="tejas161" />  
+  <img height="200"  src="https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true" alt="tejas161" />
+ <img height="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=tejas161&" alt="tejas161" />
+ 
+</div>
 
-[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true)](https://profile-summary-for-github.com/user/tejas161)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas161&show_icons=true&locale=en&layout=compact" alt="tejas161" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas161&" alt="tejas161" /></p>
+
+
+
 
