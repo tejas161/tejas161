@@ -92,11 +92,11 @@
   </p>
  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas161&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas161&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejas161&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejas161&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejas161&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejas161&theme=github)
 
-![Tejas's Github Stats](https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true) ![Tejas's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=tejas161)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejas161&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejas161&theme=github&utcOffset=8)
 
 
 
