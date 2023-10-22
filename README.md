@@ -91,11 +91,20 @@
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" height="30"/>  
   </p>
  
- 
 
-   <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas161&show_icons=true&locale=en&layout=compact" alt="tejas161" />  
-  <img height="200"  src="https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true" alt="tejas161" />
- <img height="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=tejas161&" alt="tejas161" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas161&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejas161&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejas161&theme=default)
+
+![Tejas's Github Stats](https://github-readme-stats.vercel.app/api?username=tejas161&count_private=true&show_icons=true) ![Tejas's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=tejas161)
+
+
+
+
+
+
+
+ 
 
 
 
