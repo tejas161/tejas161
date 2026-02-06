@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas161&label=Profile%20views&color=0e75b6&style=flat" alt="tejas161" /> </p>
-<img height="180" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="A Coder" />
+<img height="200" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVzcXEzcWphaGZweTZqd3B1OGVjdnJxeXdpMDl5bXZheXF3cmgxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="A Coder" />
 <h2>Hi 👋, I'm Tejas Gavankar</h2>
 
 
